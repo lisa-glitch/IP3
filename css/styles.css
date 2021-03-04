@@ -15,3 +15,12 @@
   padding-bottom: 8%;
   padding-top: 8%;
 }
+.services {
+  background-image: url("/home/lisa/Desktop/moringa-school-projects/IP3/assets/backgrounds/s_image.jpg");
+  text-align: center;
+  color: white;
+  background-position: center;
+  background-size: cover;
+  padding-top: 9%;
+  padding-bottom: 12%;
+}
