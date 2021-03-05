@@ -34,7 +34,23 @@
 .portfolio img {
   max-width: 100%;
   max-height: 100%;
+  margin-top: 12%;
 }
 .contact-us {
   background-image: url("/home/lisa/Desktop/moringa-school-projects/IP3/assets/backgrounds/c_image.jpg");
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 5%;
+  padding-top: 5%;
+  margin-top: 5%;
+}
+.footer {
+  text-align: center;
+}
+.f-links {
+  padding-inline: 10px;
+  padding-top: 20px;
+}
+.mouse {
+  bottom: 40px;
 }
