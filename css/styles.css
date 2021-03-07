@@ -45,6 +45,10 @@
   padding-top: 5%;
   margin-top: 5%;
 }
+.form {
+  background-position: center;
+  margin-left: 20px;
+}
 .footer {
   text-align: center;
 }
